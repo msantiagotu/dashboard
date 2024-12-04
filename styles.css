@@ -62,21 +62,7 @@ body {
   color: #b30000;
 }
 
-/* Estilo do header */
-header {
-  background-color: #fff;
-  text-align: center;
-  padding: 20px 0;
-  border-bottom: 2px solid #ccc;
-}
-
-header h1 {
-  color: red;
-  font-size: 32px;
-  font-weight: bold;
-} 
-
-Content area */
+/* Content area */
 .content {
   flex: 1;
   display: flex;
